@@ -5,8 +5,8 @@ In progress: novel structural entry model with observed fixed costs. Estimated w
 - [x] Get radio stations data. See links below and csv files. See data_expl.ipynb for a summary of the estimating data.  
 - [x] Write model. See pdf file for draft of equations.
 - [x] Find instrumental variables for endogenous price and quantity vectors.
-- [ ] Implement model in C++
-- [ ] Estimate
+- [ ] Implement model in C++.
+- [ ] Estimate.
 
 ### Data on radio stations in Canadian markets.
 Financials_2016.csv is a csv file with aggregate financial data from radio stations in Canadian urban markets for the year 2016. These are submitted annually to the Canadian Radio-television and Telecommunications Commission as required by law.
