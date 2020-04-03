@@ -4,7 +4,7 @@ In progress: novel structural entry model with observed fixed costs. Estimated w
 
 - [x] Get radio stations data. See links below and csv files. See data_expl.ipynb for a summary of the estimating data.  
 - [x] Write model. See pdf file for draft of equations.
-- [] Find instrumental variables for endogenous price and quantity vectors.
+- [x] Find instrumental variables for endogenous price and quantity vectors.
 - [ ] Implement model in C++
 - [ ] Estimate
 
