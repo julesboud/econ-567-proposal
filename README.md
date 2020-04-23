@@ -6,7 +6,6 @@ In progress: novel structural entry model with observed fixed costs. Estimated w
 - [x] Write model. See pdf file for draft of equations.
 - [ ] Find instrumental variables for fixed costs.
 - [ ] Find instrumental variables for endogenous price and quantity vectors.
-- [ ] Implement model in C++.
 - [ ] Estimate.
 
 ### Data on radio stations in Canadian markets.
